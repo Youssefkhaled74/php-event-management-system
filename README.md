@@ -13,4 +13,4 @@ This project is a scalable Event Management System built with PHP, SQLite, HTML,
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/event-management-system.git
+   git clone https://github.com/Youssefkhaled74/event-management-system.git
